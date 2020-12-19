@@ -1,0 +1,506 @@
+body
+{
+    border-radius: 0;
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+
+}
+#img{
+    width: 140;
+    height: 140;
+    
+    
+}
+.ll{
+    background-color: black;
+}
+.lkl{
+    text-align: right;
+    font-family: A KORDi,chiller;
+    font-size: 26px;
+    font-weight: bold;
+    padding: 50px;
+    margin-top: -350px;
+
+
+}
+.taha{
+    background-color: dimgray;
+    padding: 300px;
+    
+    text-align: center;
+}
+.t{
+    background: url(5.jpg)  ;  
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 0%;
+  margin: 0%;
+    background-position: center;
+    height: 35vh;
+    
+   
+}
+.lll{
+    background-color: darkslategrey;
+    padding: 50px;
+    border-radius: 50px;
+}
+#ama{
+    background-color: 		#696969;
+    height: 120vh;
+    padding: 0%;
+
+}
+.team_member {
+    text-align: center;
+    background-color: #ffffff;
+    border: solid 1px #ccc;
+    color: #666666;
+    padding: 40px;
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease;
+    border-radius: 6px;
+    direction: rtl;
+}
+.fap{
+    font-family: A KORDi,chiller;
+    font-weight: bold;
+}
+#ig{
+    
+    width: 100;
+    text-align: center;
+    
+    border-radius: 50px;
+}
+#wat{
+    
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #28eb38 5%, #28eb38 45%, #28eb38 60%, #28eb38 90%);
+    -webkit-background-clip: text;
+     background-clip: text;
+    -webkit-text-fill-color:
+  transparent;
+    font-size: 50px; 
+}
+#telg{
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%,#285AEB 5%, #49a0fd 45%,#285AEB 60%, #285AEB 90%);
+    -webkit-background-clip: text;
+     background-clip: text;
+    -webkit-text-fill-color:
+  transparent;
+    font-size: 50px; 
+}
+#insta {
+    background: radial-gradient(circle at 30% 107%, #ffffff 0%, #000000 5%, #ffffff 45%, #000000 60%, #ffffff 90%);
+    -webkit-background-clip: text;
+     background-clip: text;
+     margin-left: -19;
+    -webkit-text-fill-color:
+  transparent;
+    font-size: 50px; 
+  }
+#imgg{
+    text-align: right;
+    border-style: dashed;
+    background-color: 	#808080;
+    padding: 50;
+    background-size: cover;
+width: 400;
+height: 500;
+
+border-radius: 50px;
+        background-position: center;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+}
+body {
+    font-family: "Yekan", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #666666;
+    background-color: #efefef;
+}
+header{
+    background: linear-gradient(rgba(0,0,100,0.5),rgba(0,0,100,0.5)),url(2.jpg)  ;  
+    background-size: cover;
+  
+padding: 0%;
+    margin-top: -20;
+    background-position: center;
+    
+
+}
+
+nav{
+  
+    width: 100%;
+    line-height: 60px;
+
+}
+
+nav ul{
+    float: right;
+    margin: 0;
+    padding-right: 42px;
+
+}
+
+
+nav ul li {
+    display: inline-block;
+    padding: 16px 32px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+    text-align: right;
+    font-weight: bold;
+
+    
+}
+
+nav ul li a:hover{
+    color: rgb(255, 153, 0);
+    
+}
+
+
+#m{
+    height: 48px;
+    float: left;
+    margin: 16px 48px;
+    font-size: 30;
+    color: blanchedalmond;
+}
+
+nav.mun{
+    background-color: rgb(0, 0, 0);
+}
+
+#H{
+    font-size: 48px;
+    padding: 190;
+    
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 350px;
+    color: #fff;
+}
+
+.ha{
+    background-color: #f1e7ad;
+    padding: 20;
+}
+
+#bt{
+    padding: 100;
+    border-radius: 50px;
+}
+
+#b{
+    padding: 20;
+    font-size: 50;
+    border-radius: 300px;
+}
+
+#bt:hover{
+    border-radius: 20;
+}
+
+
+.tab{
+    background: linear-gradient(rgba(0,0,100,0.5),rgba(0,0,100,0.5)),url(ImagesSlider/6.jpg)  ;  
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100vh;
+}
+
+#b1{
+    border: 0;
+    padding: 15px 30px;
+    border-radius: 300px;
+    padding: 30;
+    font-size: 20;
+    
+}
+
+
+.haa{
+    background-color: #9ba9eb;
+    padding: 20;
+}
+
+
+.tah{
+    background: linear-gradient(rgba(0,0,100,0.5),rgba(0,0,100,0.5)),url(ImagesSlider/14.jpg)  ;  
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: wheat;
+    padding: 0;
+}
+
+#f1{
+    padding: 50;
+}
+
+.ll{
+    font-size: 50;
+}
+
+
+@media screen and (max-width :1141px){
+
+    
+    #ama{
+        background-color: 		#696969;
+        height: 149vh;
+        
+    
+    
+    }
+    .lkl{
+        text-align: center;
+        font-family: A KORDi,chiller;
+        font-size: 26px;
+        font-weight: bold;
+        padding: 50px;
+        margin-top: -20px;
+    
+    
+    }
+    .gf{
+       padding-left: 360px;
+    }
+
+}
+
+
+
+
+@media screen and (max-width : 768px){
+    #ama{
+        background-color: 		#696969;
+        height: 149vh;
+        
+    
+    
+    }
+    .lkl{
+        text-align: center;
+        font-family: A KORDi,chiller;
+        font-size:20px;
+        font-weight: bold;
+        padding: 50px;
+        margin-top: -20px;
+
+    
+    }
+    
+.taha{
+    background-color: dimgray;
+    padding: 200px;
+    
+    text-align: center;
+}
+    .gf{
+       padding-left: 200px;
+    }
+
+}
+
+
+
+@media screen and (max-width : 608px){
+    
+    #ama{
+        background-color: 		#696969;
+        height: 149vh;
+        
+    
+    
+    }
+    .lkl{
+        text-align: center;
+       
+        font-size:20px;
+        font-weight: bold;
+        padding: 50px;
+        margin-top: -20px;
+    
+    
+    }
+  
+    .gf{
+       padding-left: 100px;
+    }
+ 
+    .taha{
+        background-color: dimgray;
+        padding: 150px;
+        
+        text-align: center;
+    }
+}
+
+
+
+@media screen and (max-width : 500px){
+
+
+    .lkl{
+        text-align: center;
+        font-family: A KORDi,chiller;
+        font-size:20px;
+        font-weight: bold;
+        padding: 50px;
+        margin-top: -20px;
+    
+    
+    }
+    #ama{
+        background-color: 		#696969;
+        height: 200vh;
+        
+    
+    
+    }
+    .taha{
+        background-color: dimgray;
+        padding: 100px;
+        
+        text-align: center;
+    }
+    .gf{
+       padding-left: 50px;
+    }
+
+    #H{
+        font-size: 30px;
+        padding: 190;
+        
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-weight: bold;
+        text-align: center;
+        padding-top: 350px;
+        color: #fff;
+    }
+}
+
+
+
+
+@media screen and (max-width : 459px){
+
+    #ama{
+        background-color: 		#696969;
+        height: 140vh;
+        
+    
+    
+    }
+
+    
+    
+#H{
+    font-size: 40px;
+    padding: 50;
+    
+    text-transform: uppercase;
+   
+    font-weight: bold;
+    text-align: center;
+    padding-top: 330px;
+    color: #fff;
+}
+
+
+#insta {
+    background: radial-gradient(circle at 30% 107%, #ffffff 0%, #000000 5%, #ffffff 45%, #000000 60%, #ffffff 90%);
+    -webkit-background-clip: text;
+     background-clip: text;
+     margin-top: -20;
+     margin-left: -19;
+    -webkit-text-fill-color:
+  transparent;
+    font-size: 30px; 
+  }
+    .lkl{
+        text-align: center;
+        font-family: A KORDi,chiller;
+        font-size:20px;
+        font-weight: bold;
+        padding: 50px;
+        margin-top: -20px;
+    
+    
+    }
+    .gf{
+       padding-left: 67px;
+    }
+
+    #imgg{
+        text-align: right;
+        background-color: 	#808080;
+        padding: 50;
+        background-size: cover;
+    width: 300;
+    height: 500;
+    
+    border-radius: 50px;
+            background-position: center;
+    }
+}
+
+
+
+@media screen and (max-width : 388px){
+
+    .taha{
+        background-color: dimgray;
+        padding: 50px;
+        
+        text-align: center;
+    }
+    .lkl{
+        text-align: center;
+        font-family: A KORDi,chiller;
+        font-size:15px;
+        
+        padding: 50px;
+        margin-top: -20px;
+    
+    
+    }
+    #ama{
+        background-color: 		#696969;
+        height: 149vh;
+        
+    
+    
+    }
+    .gf{
+       padding-left: 50px;
+    }
+}
+
+
