@@ -50,6 +50,7 @@ body
 #ama{
     background-color: 		#696969;
     height: 120vh;
+    
     padding: 0%;
 
 }
@@ -138,6 +139,7 @@ header{
     background-size: cover;
   margin-left: 0;
 padding: 0%;
+
     margin-top: -20;
     background-position: center;
     
@@ -455,7 +457,7 @@ nav.mun{
     
     }
     .gf{
-       padding-left: 67px;
+        padding-right: 50px;
     }
 
     #imgg{
