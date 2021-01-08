@@ -435,7 +435,6 @@ nav.mun{
     color: #fff;
 }
 
-
 #insta {
     background: radial-gradient(circle at 30% 107%, #ffffff 0%, #000000 5%, #ffffff 45%, #000000 60%, #ffffff 90%);
     -webkit-background-clip: text;
@@ -505,11 +504,14 @@ nav.mun{
     }
 }
 
-.ba{
-
-        
-    
-   
+.baa{
+    background: url(5.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 0%;
+    margin: 0%;
+    background-position: center;
+    height: 35vh;
     
 }
 
