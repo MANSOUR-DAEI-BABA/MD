@@ -1,0 +1,106 @@
+body{
+    background-color:  #090909;
+}
+
+
+header{
+  background-color: black;
+    
+}
+.hh{
+    padding: 2%;
+    
+}
+  }
+#h11{
+    padding: 5%;
+ 
+    color:rgb(182, 240, 141);
+ font-size: 30px;
+ font-family: "secondary-font", "primary-font", "segoe ui", "tahoma";
+ line-height: 1.85;
+ text-align: right;
+}
+
+
+#f{
+    
+ 
+    color:rgb(182, 240, 141);
+ font-weight: 700;
+ font-family: "secondary-font", "primary-font", "segoe ui", "tahoma";
+ line-height: 1.85;
+}
+.f2{
+    color: rgb(255, 255, 255);
+    padding: 5%;
+    line-height: 1.85;
+    font-size: 100%;
+    padding-top: 0%;
+    text-align: right;
+    font-family: "secondary-font", "primary-font", "segoe ui", "tahoma";
+}
+
+#hr{
+    color: green;
+    background-color: green;
+    width: 50%;
+}
+
+#kd{
+    
+    opacity: 60%;
+    font-family: "secondary-font", "primary-font", "segoe ui", "tahoma";
+    height: 8%;
+    line-height: 1.85;
+text-align: center;
+}
+.he2{
+background-color: black;
+}
+ul{
+   
+    opacity: 60%;
+    font-family: "secondary-font", "primary-font", "segoe ui", "tahoma";
+    height: 8%;
+    line-height: 1.85;
+text-align: center;
+}
+#kd{
+    
+    opacity: 60%;
+    font-family: "secondary-font", "primary-font", "segoe ui", "tahoma";
+    height: 8%;
+    line-height: 1.85;
+text-align: center;
+}
+#ho{
+   color:rgb(182, 240, 141);
+   font-size: 170%;
+   padding: 1%;
+   background-color: #2e2e2e;
+   border-radius: 5px;
+
+   padding-right: 4%;
+
+}
+#ho:hover{
+   color: rgb(116, 228, 116);
+   background-color: black;
+}
+#us{
+    color:rgb(182, 240, 141);
+   font-size: 170%;
+   background-color: #2e2e2e;
+   border-radius: 5px;
+   padding: 1%;
+   padding-right: 4%;
+}
+#us:hover{
+   color:   rgb(116, 228, 116);
+   background-color: black;
+
+}
+
+
+
