@@ -7,14 +7,17 @@ body{
     list-style: none !important;
     text-decoration: none !important;
 }
-header{
+#particles-js{
     background: linear-gradient(rgba(0, 32, 39, 0.5),rgba(53, 53, 53, 0.5)),url(1.jpeg)  ;  
     background-size: cover;
+    
     height: 100vh;
         background-position: center;
 
 }
-
+body{
+    background-color: gray;
+}
 #m1{
     width: 100%;
     height: 100%;
