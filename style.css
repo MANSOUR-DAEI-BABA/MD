@@ -76,6 +76,17 @@ text-align: center;
     color:   rgb(116, 228, 116);
 
 }
+
+#jh{
+    color:white;
+    font-size: 170%;
+    padding: 1%;
+    padding-right: 4%;
+}
+#jh:hover{
+    color:   rgb(116, 228, 116);
+
+}
 body {
     direction: rtl;
     font-family: "primary-font", "segoe ui", "tahoma";

@@ -15,7 +15,19 @@
         body{
             background-color: #0e0f10;
         }
-    
+        #jh{
+      color:rgb(182, 240, 141);
+  font-size: 170%;
+  background-color: #2e2e2e;
+  border-radius: 5px;
+  padding: 1%;
+  padding-right: 4%;
+}
+#jh:hover{
+  color:   rgb(116, 228, 116);
+  background-color: black;
+
+}
         #f{
         
      
@@ -90,6 +102,7 @@
          <a href="s.html">   <i class="fa fa-paperclip" id="us"  ></i></a> 
          <a href="ne.html">         <i class="fa fa-clone" id="us"  ></i></a>
         <a href="se.html">     <i class="fa fa-send-o" id="us"  ></i></a>
+        <li id="jh" class="fa fa-play-circle-o" >  </li>
           <a href="https://www.instagram.com/mansourkingm/">   <i class="fa fa-instagram" id="us"  ></i></a>
              
         </ul>
@@ -106,5 +119,15 @@
         <img class="im1" src="4.png" alt=""><br> <br> <hr id="hr">  <center> <h1 id="f">نمونه کار های من</h1></center>
         <img class="im1" src="5.png" alt=""><br> <br> <hr id="hr">  <center> 
     </div>
+    <audio id="kkkj" src="m1.mp3"></audio>
+    <script>
+      var h = document.getElementById("kkkj");
+      var j = document.getElementById("jh")
+      j.onclick = function(){
+        
+        h.play();
+    
+      }
+    </script>
 </body>
 </html>
